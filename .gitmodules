@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/EthanCloin/issue-tracker-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/EthanCloin/issue-tracker-backend

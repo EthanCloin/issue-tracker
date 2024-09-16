@@ -1,3 +1,7 @@
+# old static version is still hosted
+https://surge-issuetracker.surge.sh/
+
+
 # issue-tracker
 Detailed documentation coming soon! For now, kindly visit the linked submodules to see the details of the server and client projects. 
 See below for which branches to reference. 
